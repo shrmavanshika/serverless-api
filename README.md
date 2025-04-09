@@ -1,2 +1,2 @@
 # serverless-api
-This is my serveerless api
+This is my serverless api
